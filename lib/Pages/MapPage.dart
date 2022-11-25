@@ -20,12 +20,6 @@ class MapPage extends StatefulWidget {
 }
 
 class MapPageState extends State<MapPage> {
-  ///TODO:Add Landing Page
-  ///Push to Firebase Web
-  ///Finish up 8th wall workflow
-  ///Add Information Popup - Route to 8thwall
-  ///Add Credits Page - Hamburger Icon in Top Left Corner-Drawer()
-  ///April 14th- 10:15
   Completer<GoogleMapController> _controller = Completer();
 
   final CameraPosition schoolCenter = CameraPosition(

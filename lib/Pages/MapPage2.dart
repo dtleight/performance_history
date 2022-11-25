@@ -62,7 +62,7 @@ class MapPage2State extends State<MapPage2>
         ),
       ),
       body: MapboxMap(
-                  accessToken: "pk.eyJ1IjoiZHRsZWlnaHQiLCJhIjoiY2wyZGdwa3gxMHoybDNucGRibzQxYnBodiJ9.1ZwXh-O1kLYiqgGvOpCZ7w",
+                  accessToken: "",
                   myLocationEnabled: true,
                   myLocationRenderMode: MyLocationRenderMode.GPS,
                   myLocationTrackingMode: MyLocationTrackingMode.TrackingGPS,

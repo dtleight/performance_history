@@ -1,4 +1,0 @@
-#Thu Mar 31 12:18:04 EDT 2022
-base.0=C\:\\Users\\dtlei\\AndroidStudioProjects\\perfhistory\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
